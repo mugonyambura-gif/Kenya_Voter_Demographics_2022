@@ -18,6 +18,7 @@ The cleaned analytical structure is:
 The dataset contains **49 locations**: 47 counties, Diaspora, and Prisons. With five age groups and two genders, this produces **490 analytical records**.
 
 ## Power BI Dashboard
+![Kenya 2022 Voter Demographics Dashboard](screenshots/gender_demographic_analysis_dashboard.png)
 
 ### Measures
 
